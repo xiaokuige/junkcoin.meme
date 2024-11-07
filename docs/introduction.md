@@ -1,0 +1,1 @@
+JunkCoin is Created in 2013 Revived 2024 made to be JUNK with the intention to fail.
