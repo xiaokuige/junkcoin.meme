@@ -1,1 +1,0 @@
-Welcome to the junkcoin community! I'm all a bunch of rubbish!
