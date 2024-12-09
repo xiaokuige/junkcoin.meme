@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 export default defineConfig({
-  title: "JUNKCOIN",
-  description: "JunkCoin is Created in 2013 Revived 2024 made to be JUNK with the intention to fail",
+  title: "JUNKCOIN.MEME",
+  description: "A voting platform for junk meme coins.",
   head: [
     ['link',
       {

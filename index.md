@@ -3,16 +3,15 @@
 layout: home
 
 hero:
-  name: JUNKCOIN
-  text: The first meme coin!
-  tagline: The right domain name is the successful beginning, creating junk miracles.
+  name: JUNKCOIN.MEME
+  tagline: A voting platform focused on junk meme coins!
   image:
     src: /banner.png
     alt: VitePress
 features:
   - icon: 
       src: /logo.png
-    title: junkcoin.meme(20,000$)
+    title: junkcoin.meme(domain sold)
     details: "Junkcoin is the first meme coin. You know what to do!"
   - icon: 
       src: /logo.png
@@ -25,9 +24,6 @@ features:
 ---
 <div style="display: flex; flex-direction: column; align-items: center; margin-top: 35px;">
   <img src="/nook.png" alt="Logo" style="max-width: 10%; height: auto; margin-bottom: 15px;">
-  <p style="text-align: center; font-size: 16px; color: #555;">
-    CLICK <span style="color:red;bold;">NOOK</span> LOGO, DRAW FOR <span style="color:red;bold;">BELLS COIN</span>! (Coming soon....)
-  </p>
 </div>
 <h1 style="text-align: center; margin-top: 20px; color: #333;color:red;">
   If you are a fan of JunkCoin, please give me BellsCoin!
